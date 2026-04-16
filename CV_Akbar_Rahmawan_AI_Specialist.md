@@ -1,7 +1,7 @@
 # Akbar Rahmawan
 **AI/ML Engineer | Data Analytics Specialist**
 
-📧 akbar.rahmawan@example.com | 🐙 github.com/akbarrahmawan26 | 📍 Indonesia
+📧 akbarahmawan@gmail.com | 🐙 github.com/akbarrahmawan26 | 📍 Indonesia
 
 ---
 
@@ -68,8 +68,6 @@ Built a fully functional AI agent with integrated tool orchestration, capable of
 - **YouTube:** Sentdex PyTorch tutorials, TechWorld with Nana AWS/DevOps series
 - **Practice:** Building production-ready AI systems and data pipelines
 
-### [Your Formal Education Here]
-*[Add your university/degree if you have one]*
 
 ---
 
@@ -94,7 +92,7 @@ Passionate about applying AI and data analytics to support Indonesia's tourism d
 
 - **Bahasa Indonesia:** Native
 - **English:** Professional working proficiency (technical documentation, online courses)
-
+- **Japanese:** Basic daily conversation (N5)
 ---
 
 ## Certifications (Planned/In Progress)
